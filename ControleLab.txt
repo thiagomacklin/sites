@@ -1,0 +1,99 @@
+# ===== CONTROLE POR LABORATORIO =====
+LAB_1=NORMAL
+LAB_2=NORMAL
+LAB_3=NORMAL
+LAB_4=NORMAL
+LAB_5=NORMAL
+LAB_6=NORMAL
+LAB_7=NORMAL
+LAB_8=NORMAL
+LAB_9=NORMAL
+LAB_10=NORMAL
+
+# ===== LISTA DE BLOQUEIO =====
+
+# --- INTELIGENCIA ARTIFICIAL ---
+chat.openai.com
+openai.com
+platform.openai.com
+claude.ai
+poe.com
+perplexity.ai
+phind.com
+you.com
+writesonic.com
+copy.ai
+jasper.ai
+character.ai
+gemini.google.com
+bard.google.com
+
+# --- CODIGO / DEV ---
+github.com
+www.github.com
+gist.github.com
+gitlab.com
+bitbucket.org
+replit.com
+stackblitz.com
+codesandbox.io
+jsfiddle.net
+codepen.io
+
+# --- DEPLOY / HOSTING ---
+vercel.app
+netlify.app
+render.com
+railway.app
+
+# --- PERGUNTAS / RESPOSTAS ---
+stackoverflow.com
+pt.stackoverflow.com
+superuser.com
+serverfault.com
+
+# --- COMUNICACAO ---
+web.whatsapp.com
+discord.com
+www.discord.com
+telegram.org
+web.telegram.org
+messenger.com
+
+# --- EMAIL ---
+mail.google.com
+outlook.live.com
+mail.yahoo.com
+icloud.com
+www.icloud.com
+
+# --- ARMAZENAMENTO ---
+drive.google.com
+dropbox.com
+onedrive.live.com
+mega.nz
+
+# --- REDES SOCIAIS ---
+facebook.com
+instagram.com
+twitter.com
+x.com
+tiktok.com
+
+# --- TRADUTORES ---
+translate.google.com
+deepl.com
+
+# --- COMPARTILHAMENTO ---
+pastebin.com
+hastebin.com
+privnote.com
+
+# --- EMAIL TEMPORARIO ---
+temp-mail.org
+10minutemail.com
+guerrillamail.com
+
+# --- BUSCADORES (OPCIONAL) ---
+duckduckgo.com
+bing.com
